@@ -3,7 +3,7 @@
     {
       "Board": "ESP32_DEV",
       "Version": "1.0.1",
-	  "URL": "https://github.com/GustavBrond/porkfolio_binaries/blob/main/otaPull.ino.bin"
+	  "URL": "https://github.com/GustavBrond/porkfolio_binaries/raw/refs/heads/main/otaPull.ino.bin"
     }
   ]
 }
